@@ -5,7 +5,7 @@ import Sidebar from "./sidebar";
 import Link from 'next/link'
 
 const Layout = ({ children }) => {
-    return (<div class="drawer drawer-end">
+    return (<div class="drawer drawer-mobile">
         <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
         <div class="drawer-content flex flex-col">
             <div class="w-full navbar bg-base-100">
