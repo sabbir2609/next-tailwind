@@ -33,8 +33,4 @@ function Theme({ Component, pageProps }) {
     );
 }
 
-<<<<<<< HEAD:components/Theme.js
 export default Theme
-=======
-export default Theme;
->>>>>>> 806e21ce39ae823505af35d61391e91a601794c3:components/theme.js
