@@ -3,6 +3,7 @@ import { themeChange } from "theme-change";
 
 function Theme({ Component, pageProps }) {
     const themes = ["light", "dark", "cupcake", "bumblebee", "emerald", "corporate", "synthwave", "retro", "cyberpunk", "valentine", "halloween", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula", "cmyk", "autumn", "business", "acid", "lemonade", "night", "coffee", "winter"];
+
     useEffect(() => {
         themeChange(false)
     }, [])
@@ -28,9 +29,8 @@ function Theme({ Component, pageProps }) {
                     </div>
                 </div>
             ))}
-
         </div>
     );
 }
 
-export default Theme;
+export default Theme
