@@ -3,7 +3,7 @@ import NProgress from 'nprogress'
 import 'nprogress/nprogress.css'
 import * as React from 'react'
 
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 import '../styles/globals.css'
 
 // Route Events.
