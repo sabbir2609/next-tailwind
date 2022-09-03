@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Theme from './Theme';
+import Theme from './theme';
 const Navbar = () => {
     return (
         <div className="flex-none gap-2">

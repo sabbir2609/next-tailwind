@@ -1,8 +1,8 @@
 import Link from 'next/link'
 
-import Footer from "./Footer";
-import Navbar from "./Navbar";
-import Sidebar from "./Sidebar";
+import Footer from "./footer";
+import Navbar from "./navbar";
+import Sidebar from "./sidebar";
 
 const Layout = ({ children }) => {
   return (

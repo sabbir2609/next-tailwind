@@ -1,4 +1,4 @@
-const Sidebar = () => {
+const Footer = () => {
     return (
         <div>
             <footer className="footer p-10 bg-neutral text-neutral-content">
@@ -19,4 +19,4 @@ const Sidebar = () => {
     );
 }
 
-export default Sidebar;
+export default Footer;
