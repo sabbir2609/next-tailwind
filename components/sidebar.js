@@ -6,7 +6,7 @@ const Sidebar = () => {
             {/* <!-- Sidebar content here --> */}
 
             <li>
-                <Link href="/contact"><a>Contact</a></Link>
+                <Link href="/contact">Contact</Link>
             </li>
             <li>
                 <a>Sidebar Item 2</a>
