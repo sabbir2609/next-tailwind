@@ -8,48 +8,19 @@ const Sidebar = () => {
             <li>
                 <Link href="/contact">Contact</Link>
             </li>
+
             <li>
-                <a>Sidebar Item 2</a>
+                <Link href="/about">About</Link>
             </li>
+
+
+
             <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
+                <Link href="/team">Contact</Link>
             </li>
             <div className="divider"></div>
             <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
-            </li>
-            <li>
-                <a>Sidebar Item 2</a>
+                <Link href="/blog">Blog</Link>
             </li>
 
         </ul>

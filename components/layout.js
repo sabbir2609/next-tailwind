@@ -12,7 +12,7 @@ const Layout = ({ children }) => {
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4335602409579100"
           crossOrigin="anonymous"></script>
       </Head>
-      <div className="drawer drawer-mobile">
+      <div className="bg-base-100 drawer drawer-mobile">
         <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
         <div className="drawer-content flex flex-col">
           {/* <!-- Navbar --> */}

@@ -1,6 +1,9 @@
 const Timeline = () => {
     return (
-        <div></div>
+        // generate a timeline
+        <>
+        </>
+
     );
 }
 

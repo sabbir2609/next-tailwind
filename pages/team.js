@@ -17,7 +17,7 @@ const Team = () => {
                 </div>
             </div>
             <div id="slide3" className="carousel-item relative w-full">
-                <Image src="https://place.com/800/200/arch" alt='carousel image' width={200} height={800} className="w-full" />
+                <Image src="https://placeimg.com/800/200/arch" alt='carousel image' width={200} height={800} className="w-full" />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                     <a href="#slide2" className="btn btn-circle">❮</a>
                     <a href="#slide4" className="btn btn-circle">❯</a>
